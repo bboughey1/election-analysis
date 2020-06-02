@@ -1,2 +1,2 @@
-# election-analysis
+# election-analysis overview
 Using Python 3.7.6 and VS Code a CSV containing the votes for a political office in three counties were analysed to determine the total number of votes, the discrete candidates, the amount of votes received by each candidate, and therefore the candidates percent of total votes and the overall winner of the election.  The results were written to the file election_analysis.txt.  
